@@ -1,0 +1,11 @@
+# sequência é quando temos uma lista de valores:
+
+roles:
+  - webserver
+  - database
+
+payload1:
+  - bitcoin
+  - ethereum
+
+payload2: [ bitcoin, ethereum ]
